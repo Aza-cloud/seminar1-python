@@ -10,3 +10,5 @@ if a == 6 or a == 7:
     print('ДА')
 elif a == 1 or a == 2 or a == 3 or a == 4 or a == 5:
     print('НЕТ')
+else:
+    print("Это не день недели")
